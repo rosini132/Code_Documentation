@@ -15,6 +15,8 @@ how to :ref:`installation` the project.
 
 Contents
 --------
+Reminders App:
+Create a reminders app which reminds the user when to complete certain tasks.
 
 .. toctree::
 
